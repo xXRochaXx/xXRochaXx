@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Sou o Lucas clse estou estudando git!
+
 <!--
 **xXRochaXx/xXRochaXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
